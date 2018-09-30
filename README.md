@@ -1,6 +1,7 @@
 A bunch of stuff made for exams and personal projects.
 
-The *script* directory contains the shell scripts which I've used to install my software on Ubuntu.
+The *script* directory contains the scripts used to install software or modify files on my OS.
 
 
-**WATCH OUT: BESIDES SCRIPT DIRECTORY, ALL THE OTHER FILES ARE INCOMPLETE AND BUGGED. USE AT YOUR OWN RISK!**
+**WATCH OUT: EXCEPT FOR THE FILES INTO THE SCRIPT DIRECTORY, THE OTHERS CAN BE INCOMPLETE OR BUGGED.
+USE AT YOUR OWN RISK!**
