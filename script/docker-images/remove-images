@@ -1,2 +1,0 @@
-sudo docker system prune
-sudo docker rmi "$(sudo docker images -q)"
